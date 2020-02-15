@@ -1,0 +1,17 @@
+# Rime default custom settings
+# encoding: utf-8
+
+patch:
+  "menu/page_size": 8
+  schema_list:
+    - schema: luna_pinyin
+    - schema: luna_pinyin_fluency
+    - schema: luna_pinyin_simp
+    - schema: emoji
+  ascii_composer:
+    switch_key:
+      Caps_Lock: commit_code
+      Shift_L: commit_code
+      Shift_R: inline_ascii
+      Control_L: clear
+      Control_R: commit_text

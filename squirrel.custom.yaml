@@ -1,0 +1,28 @@
+# Squirrel custom settings
+# encoding: utf-8
+
+patch:
+  style/color_scheme: solarized_rock
+  style/horizontal: true
+  style/font_point: 15
+  style/label_font_point: 14
+  style/inline_preedit: true
+  style/corner_radius: 6         # 窗口圓角半徑
+  style/border_height: 6        # 窗口邊界高度，大於圓角半徑才有效果
+  style/border_width: 6       # 窗口邊界寬度，大於圓角半徑才有效果
+
+#  style/inline_preedit: false   # 非內嵌編碼行
+#  style/font_face: "儷黑 Pro"    # 我喜歡的字體名稱
+#  style/color_scheme: luna      # 選擇配色方案
+# 註：預設的配色方案及代碼（指定爲 style/color_scheme ）
+#   系統默認色系 - native
+#   碧水 - aqua
+#   青天 - azure
+#   明月 - luna
+#   墨池 - ink
+#   孤寺 - lost_temple
+#   暗堂 - dark_temple
+#   星際我爭霸 - starcraft
+#   谷歌 - google
+#   曬經石 - solarized_rock
+#   简约白 - clean_white
